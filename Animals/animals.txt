@@ -9,3 +9,6 @@ My favorite animal is dog.
 
 Hi I am Nadman
 My favorite animal is horse
+
+Hi I am Farhan
+My favorite animal is elephant
